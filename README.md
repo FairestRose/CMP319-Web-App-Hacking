@@ -3,7 +3,7 @@
  
  Grades
  
- 25% Post Engagement Debrief - C+ 2.50
+ 25% Post Engagement Debrief - C+ 2.50, 
  75% Web Application Security Test and Evaluation - B+ 3.50
  
  Overall Grade 
